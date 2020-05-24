@@ -1,0 +1,17 @@
+{
+  "name": "pokemon-scraper",
+  "version": "1.0.0",
+  "description": "web scraper for gitting them rick and morty quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Sanderson",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^3.0.4"
+  }
+}

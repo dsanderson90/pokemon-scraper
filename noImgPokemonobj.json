@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Nidoran♀",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/nidoran%E2%99%80.png"
+  },
+  {
+    "name": "Nidoran♂",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/nidoran%E2%99%82.png"
+  },
+  {
+    "name": "Farfetch'd",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/farfetch'd.png"
+  },
+  {
+    "name": "Mr. Mime",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mr.-mime.png"
+  },
+  {
+    "name": "Mime Jr.",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mime-jr..png"
+  },
+  {
+    "name": "Flabébé",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/flab%C3%A9b%C3%A9.png"
+  },
+  {
+    "name": "Rowlet",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/rowlet.png"
+  },
+  {
+    "name": "Dartrix",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/dartrix.png"
+  },
+  {
+    "name": "Decidueye",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/decidueye.png"
+  },
+  {
+    "name": "Litten",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/litten.png"
+  },
+  {
+    "name": "Torracat",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/torracat.png"
+  },
+  {
+    "name": "Incineroar",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/incineroar.png"
+  },
+  {
+    "name": "Popplio",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/popplio.png"
+  },
+  {
+    "name": "Brionne",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/brionne.png"
+  },
+  {
+    "name": "Primarina",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/primarina.png"
+  },
+  {
+    "name": "Pikipek",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pikipek.png"
+  },
+  {
+    "name": "Trumbeak",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/trumbeak.png"
+  },
+  {
+    "name": "Toucannon",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/toucannon.png"
+  },
+  {
+    "name": "Yungoos",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/yungoos.png"
+  },
+  {
+    "name": "Gumshoos",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/gumshoos.png"
+  },
+  {
+    "name": "Grubbin",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/grubbin.png"
+  },
+  {
+    "name": "Charjabug",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charjabug.png"
+  },
+  {
+    "name": "Vikavolt",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/vikavolt.png"
+  },
+  {
+    "name": "Crabrawler",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/crabrawler.png"
+  },
+  {
+    "name": "Crabominable",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/crabominable.png"
+  },
+  {
+    "name": "Oricorio",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/oricorio.png"
+  },
+  {
+    "name": "Cutiefly",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cutiefly.png"
+  },
+  {
+    "name": "Ribombee",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ribombee.png"
+  },
+  {
+    "name": "Rockruff",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/rockruff.png"
+  },
+  {
+    "name": "Lycanroc",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lycanroc.png"
+  },
+  {
+    "name": "Wishiwashi",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wishiwashi.png"
+  },
+  {
+    "name": "Mareanie",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mareanie.png"
+  },
+  {
+    "name": "Toxapex",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/toxapex.png"
+  },
+  {
+    "name": "Mudbray",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mudbray.png"
+  },
+  {
+    "name": "Mudsdale",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mudsdale.png"
+  },
+  {
+    "name": "Dewpider",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/dewpider.png"
+  },
+  {
+    "name": "Araquanid",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/araquanid.png"
+  },
+  {
+    "name": "Fomantis",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/fomantis.png"
+  },
+  {
+    "name": "Lurantis",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lurantis.png"
+  },
+  {
+    "name": "Morelull",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/morelull.png"
+  },
+  {
+    "name": "Shiinotic",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/shiinotic.png"
+  },
+  {
+    "name": "Salandit",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/salandit.png"
+  },
+  {
+    "name": "Salazzle",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/salazzle.png"
+  },
+  {
+    "name": "Stufful",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/stufful.png"
+  },
+  {
+    "name": "Bewear",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bewear.png"
+  },
+  {
+    "name": "Bounsweet",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bounsweet.png"
+  },
+  {
+    "name": "Steenee",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/steenee.png"
+  },
+  {
+    "name": "Tsareena",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tsareena.png"
+  },
+  {
+    "name": "Comfey",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/comfey.png"
+  },
+  {
+    "name": "Oranguru",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/oranguru.png"
+  },
+  {
+    "name": "Passimian",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/passimian.png"
+  },
+  {
+    "name": "Wimpod",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/wimpod.png"
+  },
+  {
+    "name": "Golisopod",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/golisopod.png"
+  },
+  {
+    "name": "Sandygast",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/sandygast.png"
+  },
+  {
+    "name": "Palossand",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/palossand.png"
+  },
+  {
+    "name": "Pyukumuku",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pyukumuku.png"
+  },
+  {
+    "name": "Type: Null",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/type:-null.png"
+  },
+  {
+    "name": "Silvally",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/silvally.png"
+  },
+  {
+    "name": "Minior",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/minior.png"
+  },
+  {
+    "name": "Komala",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/komala.png"
+  },
+  {
+    "name": "Turtonator",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/turtonator.png"
+  },
+  {
+    "name": "Togedemaru",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/togedemaru.png"
+  },
+  {
+    "name": "Mimikyu",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/mimikyu.png"
+  },
+  {
+    "name": "Bruxish",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bruxish.png"
+  },
+  {
+    "name": "Drampa",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/drampa.png"
+  },
+  {
+    "name": "Dhelmise",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/dhelmise.png"
+  },
+  {
+    "name": "Jangmo-o",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/jangmo-o.png"
+  },
+  {
+    "name": "Hakamo-o",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/hakamo-o.png"
+  },
+  {
+    "name": "Kommo-o",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/kommo-o.png"
+  },
+  {
+    "name": "Tapu Koko",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tapu-koko.png"
+  },
+  {
+    "name": "Tapu Lele",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tapu-lele.png"
+  },
+  {
+    "name": "Tapu Bulu",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tapu-bulu.png"
+  },
+  {
+    "name": "Tapu Fini",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tapu-fini.png"
+  },
+  {
+    "name": "Cosmog",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cosmog.png"
+  },
+  {
+    "name": "Cosmoem",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cosmoem.png"
+  },
+  {
+    "name": "Solgaleo",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/solgaleo.png"
+  },
+  {
+    "name": "Lunala",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lunala.png"
+  },
+  {
+    "name": "Nihilego",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/nihilego.png"
+  },
+  {
+    "name": "Buzzwole",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/buzzwole.png"
+  },
+  {
+    "name": "Pheromosa",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pheromosa.png"
+  },
+  {
+    "name": "Xurkitree",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/xurkitree.png"
+  },
+  {
+    "name": "Celesteela",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/celesteela.png"
+  },
+  {
+    "name": "Kartana",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/kartana.png"
+  },
+  {
+    "name": "Guzzlord",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/guzzlord.png"
+  },
+  {
+    "name": "Necrozma",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/necrozma.png"
+  },
+  {
+    "name": "Magearna",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magearna.png"
+  },
+  {
+    "name": "Marshadow",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/marshadow.png"
+  },
+  {
+    "name": "Poipole",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/poipole.png"
+  },
+  {
+    "name": "Naganadel",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/naganadel.png"
+  },
+  {
+    "name": "Stakataka",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/stakataka.png"
+  },
+  {
+    "name": "Blacephalon",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blacephalon.png"
+  },
+  {
+    "name": "Zeraora",
+    "href": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/zeraora.png"
+  }
+]
